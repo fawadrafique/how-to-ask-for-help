@@ -36,3 +36,4 @@ Too generic, not possible to reproduce the problem: https://stackoverflow.com/qu
 
 Using StackOverflow to outsource your job in a strictly selfish way, which is not useful to anyone else: https://stackoverflow.com/questions/63778465/how-i-can-design-like-the-picturein-assignment-link-in-bootstrap-4-5
 
+![](https://media.giphy.com/media/7SIdExk63rTPXhbbbt/giphy.gif)
