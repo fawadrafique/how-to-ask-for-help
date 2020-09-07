@@ -1,8 +1,8 @@
-# how-to-ask-for-help
+# A reading guide for asking dev questions
 How to ask good coding questions?
 
 Summarize of problem => title  <br/>
-Clear and concise => problem  <br/>
+Clear and concise => probem  <br/>
 Show your minimal reproducible work => code  <br/>
 Include tag  <br/>
 Proof-read  <br/>
