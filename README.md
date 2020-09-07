@@ -7,6 +7,14 @@ How to ask good coding questions?
  * Include a (few) tag(s)for others to find your question  <br/>
  * Proof-read your question before publication  <br/>
 
+## Creating dev questions, stepwise
+
+1. Copy-paste a code snippet and break the issue down in 3 to 5 key words
+2. 
+3.
+4.
+5.
+
 ## examples of good questions
 
 Clear description of the context. Title is descriptive. Problem is speific and understandable: https://stackoverflow.com/questions/63753779/how-to-fill-a-column-based-on-adjacent-column-value-in-excel
