@@ -16,6 +16,7 @@ Five golden rules to asking great dev questions:
 4. Inside of the second part uou define your problem as clear and specific as possible. Adjust rich-detailed information to make yourself understandable and others able to reproduce the problem.
 5. Inside of the first part you add some context of your project (web-app, mobile, etc..).
 6. Tag-wise: include the (1) programming language you’re referring to,  (2) property names (like “div” or “border”) followed by (3) (some) keywords related to the question.
+7. Generate a summary of your problem inside of the title (1 sentence).
 
 *In case you’re new to coding, follow the “guided-mode” on stack overflow to create your question. 
 
