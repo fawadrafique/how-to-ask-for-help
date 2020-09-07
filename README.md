@@ -1,11 +1,11 @@
 # A reading guide for asking dev questions
 How to ask good coding questions?
 
-Summarize of problem inside of the title  <br/>
-Be as clear and concise as possible defining the probem in the body  <br/>
-Show your minimal and easily reproducible work with a code snippet  <br/>
-Include a (few) tag(s)for others to find your question  <br/>
-Proof-read your question before publication  <br/>
+ * Summary of problem inside of the title  <br/>
+ * Be as clear and concise as possible defining the probem in the body  <br/>
+ * Include a minimal code snippet to reproduce the problem  <br/>
+ * Include a (few) tag(s)for others to find your question  <br/>
+ * Proof-read your question before publication  <br/>
 
 ## examples of good questions
 
