@@ -1,5 +1,5 @@
 # A reading guide for asking dev questions :information_desk_person:
-How to ask good coding questions?
+Five golden rules to ask great dev questions?
 
  * Summary of problem inside of the title  <br/>
  * Be as clear and concise as possible defining the probem in the body  <br/>
