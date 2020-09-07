@@ -10,8 +10,9 @@ Five golden rules to asking great dev questions:
 ## Creating dev questions, stepwise
 
 1. Check if your particular dev question is unique on stackoverflow (or elsewhere)
-2. Copy-paste a code snippet and indent it properly (control - k) and break the issue down in 3 to 5 key words
-3. Ensure that your question is as clear and specific as possible to your snippet. Add enough details about the problem to make yourself understandable and others able to reproduce the problem.
+2. Copy-paste a code snippet and indent it properly (control - k).
+3. Break the issue down in 3 to 5 key words
+3. Write the issue in full sentences based on the keywords. Write as clear and specific as possible to your snippet. Adjust rich-detailed information to make yourself understandable and others able to reproduce the problem.
 4.
 5.
 
