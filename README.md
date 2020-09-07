@@ -1,11 +1,11 @@
 # how-to-ask-for-help
 How to ask good coding questions?
 
-Summarize of problem => title
-Clear and concise => problem 
-Show your minimal reproducible work => code
-Include tag
-Proof-read
+Summarize of problem => title  <br/>
+Clear and concise => problem  <br/>
+Show your minimal reproducible work => code  <br/>
+Include tag  <br/>
+Proof-read  <br/>
 
 # examples of good questions
 
