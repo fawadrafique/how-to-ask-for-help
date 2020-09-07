@@ -1,4 +1,4 @@
-# A reading guide for asking dev questions
+# A reading guide for asking dev questions :information_desk_person:
 How to ask good coding questions?
 
  * Summary of problem inside of the title  <br/>
