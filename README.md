@@ -9,7 +9,8 @@ How to ask good coding questions?
 
 ## Creating dev questions, stepwise
 
-1. Copy-paste a code snippet and break the issue down in 3 to 5 key words
+1. Check if your particular dev question is unique on stackoverflow (or elsewhere)
+2. Copy-paste a code snippet and break the issue down in 3 to 5 key words
 2. 
 3.
 4.
