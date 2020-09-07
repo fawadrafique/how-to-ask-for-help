@@ -15,7 +15,7 @@ How to ask good coding questions?
 4.
 5.
 
-## examples of good questions
+## Examples of good questions
 
 Clear description of the context. Title is descriptive. Problem is speific and understandable: https://stackoverflow.com/questions/63753779/how-to-fill-a-column-based-on-adjacent-column-value-in-excel
 
@@ -23,7 +23,7 @@ Simple and clear question that many PHP users run into: https://stackoverflow.co
 
 Context is highly relevant: https://stackoverflow.com/questions/50644667/xdebug-on-port-9000-with-a-virtual-machine-eaddrinuse-9000
 
-## examples of bad questions
+## Examples of bad questions
 
 Non-descriptive title: https://stackoverflow.com/questions/63778503/i-am-getting-an-error-mentioned-below-what-does-it-mean
 
