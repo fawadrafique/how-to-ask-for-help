@@ -9,12 +9,12 @@ Five golden rules to ask great dev questions?
 
 ## Creating dev questions, stepwise
 
-1. Check if your particular dev question is unique on stackoverflow (or elsewhere)
+1. Check if your particular dev question is unique on stackoverflow (or elsewhere online)
 2. Copy-paste a code snippet and break the issue down in 3 to 5 key words
-2. 
-3.
-4.
+3. Ensure that your question is as clear and specific as possible to your snippet. Add enough details about the problem to make yourself understandable and others able to reproduce the problem.
+4. 
 5.
+6.
 
 ## Examples of good questions
 
