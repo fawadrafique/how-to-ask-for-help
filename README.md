@@ -28,6 +28,8 @@ Simple and clear question that many PHP users run into: https://stackoverflow.co
 
 Context is highly relevant: https://stackoverflow.com/questions/50644667/xdebug-on-port-9000-with-a-virtual-machine-eaddrinuse-9000
 
+![](https://media.giphy.com/media/7SIdExk63rTPXhbbbt/giphy.gif)
+
 ## Examples of bad questions
 
 Non-descriptive title: https://stackoverflow.com/questions/63778503/i-am-getting-an-error-mentioned-below-what-does-it-mean
@@ -36,4 +38,5 @@ Too generic, not possible to reproduce the problem: https://stackoverflow.com/qu
 
 Using StackOverflow to outsource your job in a strictly selfish way, which is not useful to anyone else: https://stackoverflow.com/questions/63778465/how-i-can-design-like-the-picturein-assignment-link-in-bootstrap-4-5
 
-![](https://media.giphy.com/media/7SIdExk63rTPXhbbbt/giphy.gif)
+
+![](https://media.giphy.com/media/jxETRYAi2KReel7pqy/giphy.gif)
