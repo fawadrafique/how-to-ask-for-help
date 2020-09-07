@@ -18,7 +18,7 @@ Five golden rules to ask great dev questions?
 
 ## Examples of good questions
 
-Clear description of the context. Title is descriptive. Problem is speific and understandable: https://stackoverflow.com/questions/63753779/how-to-fill-a-column-based-on-adjacent-column-value-in-excel
+Clear description of the context. Title is descriptive. Problem is speific and understandable:  <br/> https://stackoverflow.com/questions/63753779/how-to-fill-a-column-based-on-adjacent-column-value-in-excel
 
 Simple and clear question that many PHP users run into: https://stackoverflow.com/questions/4238433/php-how-to-create-a-newline-character
 
